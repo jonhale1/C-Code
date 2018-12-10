@@ -1,2 +1,2 @@
-# School-snips
-Short code made for school projects and assignments
+# C 
+C code samples from Masters program in Mechanical Engineering & Robotics
